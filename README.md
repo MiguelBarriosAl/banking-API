@@ -9,7 +9,7 @@ The database model consists of a transfer table and a user table.
 The user table consists of the nexts fields:
 
  - name = Customer name
- - bank_account = customer's bank account
+ - bank_account = Customer's bank account
  - balance = Amount of money in the user's account
  - created_at = User creation date
  - updated = User update date
